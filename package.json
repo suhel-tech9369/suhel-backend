@@ -17,5 +17,8 @@
     "url": "https://github.com/suhel-tech9369/suhel-backend/issues"
   },
   "homepage": "https://github.com/suhel-tech9369/suhel-backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
